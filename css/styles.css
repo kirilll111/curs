@@ -1,0 +1,38 @@
+textarea 
+{
+    resize: none;
+} 
+li
+{
+	list-style-type: none;
+}
+
+
+
+
+
+#backgroundResult
+{
+	background-color: ccc;
+}
+
+
+
+#text
+{
+	position: relative;
+	width: 48%;
+	left: 10px;
+	clear: left;
+}
+#im{
+	margin:5px;
+}
+.txtfile{
+	display:inline-block;
+	margin:5px;
+}
+.filename{
+	    margin: 0;
+    text-align: center;
+}
